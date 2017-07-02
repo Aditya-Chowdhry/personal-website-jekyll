@@ -5,9 +5,16 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <center><h2>Hey there!</h2></center>
-<p>I am <b>Aditya Chowdhry</b>, currently working as a Software Engineer at UrbanClap. My main interest lies in developing scalable backends. I am 1+ year into my first job at UrbanClap out of college and have been working on MEAN stack majorly. I have worked on various projects like Chat(using Ejabberd), SEO(backend infrastructure), Customer Product Flow and MatchMaking at UrbanClap.
+<p>I am <b>Aditya Chowdhry</b>, currently working as a Software Engineer at UrbanClap. My main interest lies in developing scalable backends. I am 1+ year into my first job out of college and have been working on MEAN stack majorly. I have worked on various projects like Chat(using Ejabberd), SEO(backend infrastructure), Customer Product Flow and MatchMaking at UrbanClap.
 </p>
-
+<p>How we build chat at UrbanClap: </p>
+<center>
+	<img class="image" src="/assets/chat_team.jpg" alt="chatTeam">
+    <figcaption class="caption">Chat Team</figcaption>
+    <p> Medium article: <a href="https://medium.com/urbanclap-engineering/power-of-in-house-chat-d05601b01e48" target="_blank">[Power of in-house chat]</a>
+    </p>
+</center>
+<!-- ![Chat Team](/assets/chat_team.jpg) -->
 <p>I have worked on various languages and technologies such as:</p>
 
 <!-- <h2>Skills</h2> -->
