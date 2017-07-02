@@ -22,7 +22,7 @@ url: http://adityachowdhry.com/personal-website-jekyll
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-53059000-6'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -100,4 +100,4 @@ gems:
   - jekyll-feed
 
 jekyll-mentions:
-    base_url: /Aditya-Chowdhry
+    base_url: /Aditya-Chowdhry/personal-website-jekyll

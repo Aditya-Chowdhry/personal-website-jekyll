@@ -4,43 +4,54 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<center><h2>Hey there!</h2></center>
+<p>I am <b>Aditya Chowdhry</b>, currently working as a Software Engineer at UrbanClap. My main interest lies in developing scalable backends. I am 1+ year into my first job at UrbanClap out of college and have been working on MEAN stack majorly. I have worked on various projects like Chat(using Ejabberd), SEO(backend infrastructure), Customer Product Flow and MatchMaking at UrbanClap.
+</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I have worked on various languages and technologies such as:</p>
 
-<h2>Skills</h2>
+<!-- <h2>Skills</h2> -->
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
 	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
+	<li>MongoDb</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>MySQL</li>
+	<li>Git</li>
+	<li>Redis</li>
+	<li>Kinesis - Lambda</li>
+	<li>Ejabberd</li>
+	<li>Ruby on Rails</li>
+	<li>Shell scripting</li>
+	<li>C++</li>
+	<li>JAVA</li>
 </ul>
 
-<h2>Projects</h2>
+<p>During my college time, I have been an active participant in Coding competitions and Hackathons.</p>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="/assets/acm.jpg" alt="acmICPC">
+        <figcaption class="caption">ACM ICPC Kolkata 2015</figcaption>
+    </div>
+
+    <div class="toright">
+    	<img class="image" src="/assets/hackathon.jpg" alt="indiaHacks">
+        <figcaption class="caption">IndiaHacks 2016 (selected in top 20 out of 1000+ teams)</figcaption>
+    </div>
+</div>
+
+<p>I also started a Programming Club and took regular sessions on Data Structures and Algorithms.</p>
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="/assets/session.jpg" alt="Alt Text">
+        <figcaption class="caption">Intro to online judge</figcaption>
+    </div>
+
+    <div class="toright">
+    	<p>During my time at Programming Club, I organized an Online coding competition along with an offline coding competition.</p>
+    </div>
+</div>
+
+
