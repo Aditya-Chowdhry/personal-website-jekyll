@@ -9,7 +9,7 @@ layout: page
 </p>
 <p>How we build chat at UrbanClap: </p>
 <center>
-	<img class="image" src="/assets/chat_team.jpg" alt="chatTeam">
+	<img class="image" src="{{site.url}}/assets/chat_team.jpg" alt="chatTeam">
     <figcaption class="caption">Chat Team</figcaption>
     <p> Medium article: <a href="https://medium.com/urbanclap-engineering/power-of-in-house-chat-d05601b01e48" target="_blank">[Power of in-house chat]</a>
     </p>
@@ -38,12 +38,12 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="/assets/acm.jpg" alt="acmICPC">
+        <img class="image" src="{{site.url}}/assets/acm.jpg" alt="acmICPC">
         <figcaption class="caption">ACM ICPC Kolkata 2015</figcaption>
     </div>
 
     <div class="toright">
-    	<img class="image" src="/assets/hackathon.jpg" alt="indiaHacks">
+    	<img class="image" src="{{site.url}}/assets/hackathon.jpg" alt="indiaHacks">
         <figcaption class="caption">IndiaHacks 2016 (selected in top 20 out of 1000+ teams)</figcaption>
     </div>
 </div>
@@ -52,7 +52,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="/assets/session.jpg" alt="Alt Text">
+        <img class="image" src="{{site.url}}/assets/session.jpg" alt="Alt Text">
         <figcaption class="caption">Intro to online judge</figcaption>
     </div>
 
